@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "astro-qwik",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
+    "@biomejs/biome": "^1.5.2",
+    "@builder.io/qwik": "^1.4.0",
+    "@qwikdev/astro": "^0.4.4",
     "astro": "^4.2.1",
     "typescript": "^5.3.3"
   }
